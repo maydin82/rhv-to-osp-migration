@@ -1,0 +1,12 @@
+clouds:
+  sampleproject:
+    auth:
+      auth_url: https://osp.local:13000
+      username: "admin"
+      project_id: <fillme>
+      project_name: "sampleproject"
+      user_domain_name: "Default"
+      password: "<fillme>"
+    region_name: "regionOne"
+    interface: "public"
+    identity_api_version: 3
