@@ -29,3 +29,5 @@ The playbook:
 
 
 - If the VMs at RHV are using consistent device naming(ex ens*)  and the order was changed due to removing/adding interfaces, a manual intervention is required (mapping to the correct interface device) once the instance becomes up at OSP.
+
+- All RHV VLANs are created as provisioning network at OSP.
